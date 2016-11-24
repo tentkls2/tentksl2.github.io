@@ -1,1 +1,1 @@
-# tentksl2.github.io
+# https://tentksl2.github.io
